@@ -1,0 +1,69 @@
+{
+  "original_filename": "SR_service_2023_年累加防风固沙量.tif",
+  "bytes": 33142530,
+  "sha256": "b560dc77c02b48d987952f9baf5c096794e7ced80584e531624f5ef0ae2cd511",
+  "crs": "PROJCS[\"Albers_Conic_Equal_Area\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"latitude_of_center\",0],PARAMETER[\"longitude_of_center\",105],PARAMETER[\"standard_parallel_1\",25],PARAMETER[\"standard_parallel_2\",47],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "wkt": "PROJCS[\"Albers_Conic_Equal_Area\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"latitude_of_center\",0],PARAMETER[\"longitude_of_center\",105],PARAMETER[\"standard_parallel_1\",25],PARAMETER[\"standard_parallel_2\",47],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "epsg": null,
+  "width": 7491,
+  "height": 5775,
+  "bands": 1,
+  "dtype": "float32",
+  "nodata": -9999.0,
+  "resolution": [
+    1000.0,
+    1000.0
+  ],
+  "bounds": [
+    -3828000.0,
+    373000.0,
+    3663000.0,
+    6148000.0
+  ],
+  "transform": [
+    1000.0,
+    0.0,
+    -3828000.0,
+    0.0,
+    -1000.0,
+    6148000.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "tags": {
+    "AREA_OR_POINT": "Area",
+    "TIFFTAG_SOFTWARE": "GDAL 3.8.1e (3080114) (4.6.0;1710;3.0.1;2.1.6;;0x10302;5.4.5;), PROJ 9.3.1 (EPSG.VERSION=v10.098;EPSG.DATE=2023-11-24;ESRI.VERSION=ArcGIS Pro 3.2;ESRI.DATE=2023-11-02;PROJ_DATA.VERSION=1.16;)"
+  },
+  "band_tags": {
+    "STATISTICS_COUNT": "9363520.000000",
+    "STATISTICS_COVARIANCES": "0.1994812831392336",
+    "STATISTICS_MAXIMUM": "41.165168762207",
+    "STATISTICS_MEAN": "0.11111194085641",
+    "STATISTICS_MEDIAN": "0.000000",
+    "STATISTICS_MINIMUM": "0",
+    "STATISTICS_SKIPFACTORX": "1",
+    "STATISTICS_SKIPFACTORY": "1",
+    "STATISTICS_STDDEV": "0.44663327589784"
+  },
+  "units": [
+    null
+  ],
+  "compression": "Compression.lzw",
+  "valid_cells": 9363520,
+  "minimum": 0.0,
+  "maximum": 41.16516876220703,
+  "negative_cells": 0,
+  "nonfinite_valid_cells": 0,
+  "filename": "China_Windbreak_Sand_Fixation_Service_2023_1km.tif",
+  "year": 2023,
+  "version": "v1.0.0",
+  "format": "GeoTIFF",
+  "unit": "kg/(m²·a)",
+  "unit_source": "Legend of the supplied 2023 dataset map",
+  "variable": "Annual windbreak and sand fixation service per unit area",
+  "institution": "Capital Normal University",
+  "validity_rule": "band mask > 0 AND value != -9999 AND value is finite",
+  "nodata_cells_marked_valid_by_internal_mask": 172369,
+  "inspection_date": "2026-09-22"
+}
