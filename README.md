@@ -62,7 +62,6 @@
 | 像元平均变异系数（CV） | 由0.476降至0.357，相对下降24.94% |
 | 区域平均服务量变异系数（CV） | 由0.308降至0.257，相对下降16.47% |
 
-不确定性结果对应蒙特卡洛模拟设定的输入与参数扰动条件；CV及相对降幅采用课题组评估报告中的数值。
 
 ## 空间分布示意
 
@@ -89,4 +88,4 @@ python scripts/read_geotiff.py /path/to/China_Windbreak_Sand_Fixation_Service_20
 | 联系人 | 邮箱 |
 | --- | --- |
 | 课题负责人：Dr. Zhuowei Hu（胡卓玮） | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
-| 技术联系人：Tianao Han | [2250902106@cnu.edu.cn](mailto:2250902106@cnu.edu.cn) |
+| 技术联系人：Jiantong Li | [1845472692@qq.com](mailto:1845472692@qq.com) |
