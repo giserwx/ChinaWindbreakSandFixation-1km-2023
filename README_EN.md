@@ -62,7 +62,6 @@ The research team evaluated the dataset through comparisons of wind speed forcin
 | Mean pixel-level coefficient of variation (CV) | Decreased from 0.476 to 0.357, a relative reduction of 24.94% |
 | CV of regional mean service amount | Decreased from 0.308 to 0.257, a relative reduction of 16.47% |
 
-The uncertainty results apply to the input and parameter perturbations specified in the Monte Carlo simulations. CV values and relative reductions are taken from the research team's assessment report.
 
 ## Spatial overview
 
@@ -89,4 +88,4 @@ We make our data products available to the research community as we believe that
 | Contact | Email |
 | --- | --- |
 | Task lead: Dr. Zhuowei Hu | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
-| Technical contact: Tianao Han | [2250902106@cnu.edu.cn](mailto:2250902106@cnu.edu.cn) |
+| Technical contact: Jiantong Li | [1845472692@qq.com](mailto:1845472692@qq.com) |
