@@ -87,5 +87,5 @@ python scripts/read_geotiff.py /path/to/China_Windbreak_Sand_Fixation_Service_20
 
 | 联系人 | 邮箱 |
 | --- | --- |
-| 课题负责人：Dr. Zhuowei Hu（胡卓玮） | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
-| 技术联系人：Jiantong Li | [1845472692@qq.com](mailto:1845472692@qq.com) |
+| 课题负责人：胡卓玮 | [huzhuowei@cnu.edu.cn](mailto:huzhuowei@cnu.edu.cn) |
+| 技术联系人：李健桐 | [1845472692@qq.com](mailto:1845472692@qq.com) |
